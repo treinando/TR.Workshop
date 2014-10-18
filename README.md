@@ -1,5 +1,4 @@
 TR.Workshop
 ===========
 
-Projeto de exemplos para os alunos 
- 
+Projeto de exemplos para os alunos
